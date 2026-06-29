@@ -4,7 +4,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=AI%2FML+Engineer+in+Progress;Deep+Learning+Practitioner;Oracle+Database+Developer+%26+Administrator;Always+Learning+%F0%9F%9A%80" />
 
-<p> <img src="https://komarev.com/ghpvc/?username=zaibutman&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blue" /> <img src="https://img.shields.io/github/stars/zaibutman?style=for-the-badge&color=yellow" /> </p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zaibutman&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/zaibutman?style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/zaibutman?style=for-the-badge&color=yellow"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
 
 </div>
 
