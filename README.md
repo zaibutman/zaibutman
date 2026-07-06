@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# Hi 👋 I'm Shah Mubarak Zaib
 
 ### AI/ML Engineer | Software Engineer | Deep Learning Practitioner | Oracle Database Developer | Full Stack Developer
 
